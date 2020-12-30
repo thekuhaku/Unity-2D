@@ -1,4 +1,4 @@
-# Game Development in Unity and C#
+## Game Development in Unity and C#
 
 Games in Unity and C# created with guidance from _Complete C# Unity Game Developer 2D_ video lectures on Udemy
 
